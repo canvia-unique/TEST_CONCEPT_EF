@@ -1,0 +1,12 @@
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EF_TestConcept.exe.config
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EF_TestConcept.exe
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EF_TestConcept.pdb
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EntityFramework.dll
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EntityFramework.xml
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\obj\Debug\EF_TestConcept.csproj.CoreCompileInputs.cache
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\obj\Debug\EF_TestConcept.csproj.CopyComplete
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\obj\Debug\EF_TestConcept.exe
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\obj\Debug\EF_TestConcept.pdb
+C:\Users\mbaez\Desktop\EF_Concept\EF_TestConcept\EF_TestConcept\obj\Debug\EF_TestConcept.csprojAssemblyReference.cache
